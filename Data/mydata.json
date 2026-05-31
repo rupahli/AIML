@@ -1,0 +1,14 @@
+{
+  "name": "Alice",
+  "age": 30,
+  "skills": [
+    "Python",
+    "Data Science",
+    "Machine Learning"
+  ],
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "country": "USA"
+  }
+}
