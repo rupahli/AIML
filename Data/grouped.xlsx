@@ -1,0 +1,6 @@
+,Salary,Salary,Salary,Salary,Experience,Experience
+,min,max,median,mean,min,max
+Department,,,,,,
+AIML,10,59,50.0,39.666666666666664,10,14
+DA,11,30,20.5,20.5,11,16
+DS,20,45,30.0,31.666666666666668,11,23
